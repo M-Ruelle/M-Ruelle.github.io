@@ -11,7 +11,7 @@ title: My Site
 # Description of the Site
 description: A test website (in work!)
 # URL of Image of the Site
-site-image: https://images.uncyclomedia.co/desencyclopedie/fr/thumb/4/46/Monsieur_Monopoly_II.jpeg/200px-Monsieur_Monopoly_II.jpeg
+site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
@@ -43,7 +43,7 @@ disqus-shortname: thedevslot
 # Name of the Author
 author-name: TheDevsLot
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/monopoly.jpeg
+author-image: https://images.uncyclomedia.co/desencyclopedie/fr/thumb/4/46/Monsieur_Monopoly_II.jpeg/200px-Monsieur_Monopoly_II.jpeg
 # 60 Words About the Author
 author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
