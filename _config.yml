@@ -7,7 +7,7 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: My Site
+title: My Site 2
 # Description of the Site
 description: A test website (in work!)
 # URL of Image of the Site
@@ -41,11 +41,11 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: Malo Ruelle
+author-name: thedevslot
 # URL for the Image of the Author
 author-image: https://images.uncyclomedia.co/desencyclopedie/fr/thumb/4/46/Monsieur_Monopoly_II.jpeg/200px-Monsieur_Monopoly_II.jpeg
 # 60 Words About the Author
-author-about: I'm Malo Ruelle, 23 years old, currently in M1 in Data Science. See my work here: 
+author-about: I'm Malo Ruelle, 23 years old, currently in M1 in Data Science.
 author-url: https://github.com/M-Ruelle/Business-Card/releases/latest
 
 # SASS
